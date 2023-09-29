@@ -1,15 +1,13 @@
-# GEN220: Highthroughput Biological Data Analysis - Fall 2022
+# GEN220: Highthroughput Biological Data Analysis - Fall 2023
 
 See the [Syllabus](Resources/Syllabus) [PDF](Resources/Syllabus.pdf)
 for an overview of lecture topics.
 
-We will use [Piazza](https://piazza.com/class/kttnhd4ixa3387)  for discussions and Q&A.
-
-Examples worked during class will be uploaded in [this working repository](https://github.com/biodataprog/GEN220_2022_examples).
+Examples worked during class will be uploaded in [this working repository](https://github.com/biodataprog/GEN220_2023_examples).
 To check it out and keep it update.
 ```
-git clone https://github.com/biodataprog/GEN220_2022_examples.git
-cd GEN220_2022_examples
+git clone https://github.com/biodataprog/GEN220_2023_examples.git
+cd GEN220_2023_examples
 # ... time passes, new examples are uploaded
 git pull # to get the latest version of the files
 
@@ -38,10 +36,11 @@ git clone https://github.com/biodataprog/GEN220_data.git
 
 # Homework
 
-* HW1 - See canvas/piazza for github classroom link
-* HW2 - [Homework 2](Assignments/HW2) [PDF](Assignments/HW2.pdf)
-* HW3 - [Homework 3](Assignments/HW3) [PDF](Assignments/HW3.pdf)
-* HW4 - [Homework 4](Assignments/HW4) [PDF](Assignments/HW4.pdf)
+* HW1 
+* HW2 
+* HW3 
+* HW4 
+* HW5
 
 # Project
 
