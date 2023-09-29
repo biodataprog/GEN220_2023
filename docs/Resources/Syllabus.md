@@ -126,20 +126,20 @@ Schedule
 | Oct-4	|	W	|	UNIX II: Biocluster HPCC, Running programs |	|
 | Oct-6	|	F	|	UNIX III: Tools for data processing	| Homework 1 Due  |
 | Oct-11	|	W	|	UNIX IV: Advanced UNIX and data processing	|	|
-| Oct-13	|	F	|	Python I - Variables, running, cmdline, strings, math	| Homework 2 Due  |
+| Oct-13	|	F	|	Python I - Variables, running, cmdline, strings, math	|  |
 | Oct-18	|	W	|	Python II - Logic, loops, lists, iterator; I/O reading/writing files	|	 |
-| Oct-20	|	F	|	Python III - Pandas and Dictionaries	|  Homework 3 Due  |
+| Oct-20	|	F	|	Python III - Pandas and Dictionaries	|  Homework 2 Due  |
 | Oct-25	|	W	|	Python IV -  Arrays, functions  |	|
 | Oct-27	|	F	|	Python V - BioPython | 	|
 | Nov-1	|	W	|	Python Data / Bioinformatics I	| |
-| Nov-3	|	F	|	Alignment and Bioinformatics Algorithms; BLAST cmdline & automation	| Homework 4 Due |
+| Nov-3	|	F	|	Alignment and Bioinformatics Algorithms; BLAST cmdline & automation	| Homework 3 Due |
 | Nov-8	|	W	|	Bioinformatics I - Aligning short reads, coverage, identifying variants	|	|
 | Nov-10 |	F	|	Bioinformatics II - RNASeq analyses	|	|
-| Nov-15	|	W	|	Bioinformatics III - Genome Assembly	|  |
+| Nov-15	|	W	|	Bioinformatics III - Genome Assembly	|  Homework 4 Due |
 | Nov-17 |	F |	Bioinformatics IV - Protein Sequence analyses (HMMER, InterPro, SignalP)  |	|
-| Nov-22 |	W |	Bioinformatics V - Orthology, Phylogenetics and automation | Homework 5 Due 	|
+| Nov-22 |	W |	Bioinformatics V - Orthology, Phylogenetics and automation | 	|
 | Nov-24	|	F	|  **NO CLASS - Native American Heritage Day**  |	|
-| Nov-29 |	W |	Data visualization in R and python | Extra Topics	|
+| Nov-29 |	W |	Data visualization in R and python | Homework 5 Due	|
 | Dec-1 |	F |	Databases in R and basic SQL | Extra Topics	|
 | Dec-6	|	W |   Extra Bioinformatics topics | 	|
 | Dec-8	|	F |  Class Presentations |		|
