@@ -23,11 +23,11 @@ Units: 3
 
 Instructor: Jason Stajich (jason.stajich@ucr.edu)
 
-Time and location: W/F 3:00-4:30PM  Campbell Hall 104
+Time and location: W/F 3-5PM  Campbell Hall 104
 
 Office Hours: M (via Zoom)
 
-[https://biodataprog.github.io/GEN220_2022/](https://biodataprog.github.io/GEN220_2022/)
+[https://biodataprog.github.io/GEN220_2023/](https://biodataprog.github.io/GEN220_2023/)
 
 Prerequisites
 -------------
@@ -82,7 +82,7 @@ Homework
 * Code should be runnable as turned in. You will deposit your code in
   your github repository or if not possible, by Canvas. You can make
   one private personal repository to deposit and should organize a
-  folder for each homework assignment (e.g. hw1, hw2, hw3, hw4). There will be a link to create these through GitHub Classroom and posted in [Canvas](https://elearn.ucr.edu/courses/17733/assignments/syllabus) and Piazza.
+  folder for each homework assignment (e.g. hw1, hw2, hw3, hw4, hw5). There will be a link to create these through GitHub Classroom and posted in [Canvas](https://elearn.ucr.edu/courses/104848/assignments/syllabus).
 
   Technology Requirements
   -----------------------
@@ -122,27 +122,28 @@ Schedule
 
 | Date	| Day |	Lecture Topic	|	Notes
 | :------ | :---- | :---------------------- | :------------ |
-| Sept-23 |	F	|	Course Intro / UNIX I: Cmdline, GitHub	|	|
-| Sept-28	|	W	|	UNIX II: Biocluster HPCC, Running programs |	|
-| Sept-30	|	F	|	UNIX III: Tools for data processing	| Homework 1 Due  |
-| Oct-5	|	W	|	UNIX IV: Advanced UNIX and data processing	|	|
-| Oct-7	|	F	|	Python I - Variables, running, cmdline, strings, math	| Homework 2 Due  |
-| Oct-12	|	W	|	Python II - Logic, loops, lists, iterator; I/O reading/writing files	|	 |
-| Oct-14	|	F	|	Python III - Dictionaries, Arrays, functions	|  Homework 3 Due  |
-| Oct-19	|	W	|	Python IV - Structured data parsing (GFF, CSV, BED)	 |	|
-| Oct-21	|	F	|	Python V - BioPython, Pandas | 	|
-| Oct-26	|	W	|	Python Data / Bioinformatics I	| |
-| Oct-28	|	F	|	Alignment and Bioinformatics Algorithms; BLAST cmdline & automation	| Homework 4 Due |
-| Nov-2	|	W	|	Bioinformatics I - Aligning short reads, coverage, identifying variants	|	|
-| Nov-4 |	F	|	Bioinformatics II - RNASeq analyses	|	|
-| Nov-9	|	W	|	Bioinformatics III - Genome Assembly	|  |
-| Nov-11 |	F |	**No Class - Holiday**  |	|
-| Nov-16 |	W |	Bioinformatics IV - Protein Sequence analyses (HMMER, InterPro, SignalP) | Homework 5 Due 	|
-| Nov-19	|	F	|  Bioinformatics V - Orthology, Phylogenetics and automation |	|
-| Nov-23 |	W |	Review Bioinformatics and Databases | Extra Topics	|
-| Nov-25 |	F |	**NO CLASS - Native American Heritage Day** | 	|
-| Nov-30	|	 W |  Data visualization in R and python | 	|
-| Dec-2	|	F	|  Class Presentations |		|
-| Dec-9 | F | Final Project Reports Due | |
-
+| Sept-29 |	F	|	Course Intro / UNIX I: Cmdline, GitHub	|	|
+| Oct-4	|	W	|	UNIX II: Biocluster HPCC, Running programs |	|
+| Oct-6	|	F	|	UNIX III: Tools for data processing	| Homework 1 Due  |
+| Oct-11	|	W	|	UNIX IV: Advanced UNIX and data processing	|	|
+| Oct-13	|	F	|	Python I - Variables, running, cmdline, strings, math	| Homework 2 Due  |
+| Oct-18	|	W	|	Python II - Logic, loops, lists, iterator; I/O reading/writing files	|	 |
+| Oct-20	|	F	|	Python III - Pandas and Dictionaries	|  Homework 3 Due  |
+| Oct-25	|	W	|	Python IV -  Arrays, functions  |	|
+| Oct-27	|	F	|	Python V - BioPython | 	|
+| Nov-1	|	W	|	Python Data / Bioinformatics I	| |
+| Nov-3	|	F	|	Alignment and Bioinformatics Algorithms; BLAST cmdline & automation	| Homework 4 Due |
+| Nov-8	|	W	|	Bioinformatics I - Aligning short reads, coverage, identifying variants	|	|
+| Nov-10 |	F	|	Bioinformatics II - RNASeq analyses	|	|
+| Nov-15	|	W	|	Bioinformatics III - Genome Assembly	|  |
+| Nov-17 |	F |	Bioinformatics IV - Protein Sequence analyses (HMMER, InterPro, SignalP)  |	|
+| Nov-22 |	W |	Bioinformatics V - Orthology, Phylogenetics and automation | Homework 5 Due 	|
+| Nov-24	|	F	|  **NO CLASS - Native American Heritage Day**  |	|
+| Nov-29 |	W |	Data visualization in R and python | Extra Topics	|
+| Dec-1 |	F |	Databases in R and basic SQL | Extra Topics	|
+| Dec-6	|	W |   Extra Bioinformatics topics | 	|
+| Dec-8	|	F |  Class Presentations |		|
+| Dec-15 | F | Final Project Reports Due | |
 ----------
+
+*note these dates and topics may changes if illness or conflict arises. Class will also vote to emphasize special topics towards the end of quarter.

@@ -7,9 +7,6 @@
   <title>Syllabus</title>
   <style>
     html {
-      line-height: 1.5;
-      font-family: Georgia, serif;
-      font-size: 20px;
       color: #1a1a1a;
       background-color: #fdfdfd;
     }
@@ -28,13 +25,16 @@
     @media (max-width: 600px) {
       body {
         font-size: 0.9em;
-        padding: 1em;
+        padding: 12px;
       }
       h1 {
         font-size: 1.8em;
       }
     }
     @media print {
+      html {
+        background-color: white;
+      }
       body {
         background-color: transparent;
         color: black;
@@ -84,9 +84,10 @@
       color: #606060;
     }
     code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
+      hyphens: manual;
     }
     pre {
       margin: 1em 0;
@@ -149,7 +150,7 @@
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: 1;}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -184,10 +185,10 @@ throughput biological data through homework assignments and team
 projects.</p>
 <p>Units: 3</p>
 <p>Instructor: Jason Stajich (jason.stajich@ucr.edu)</p>
-<p>Time and location: W/F 3:00-4:30PM Campbell Hall 104</p>
+<p>Time and location: W/F 3-5PM Campbell Hall 104</p>
 <p>Office Hours: M (via Zoom)</p>
 <p><a
-href="https://biodataprog.github.io/GEN220_2022/">https://biodataprog.github.io/GEN220_2022/</a></p>
+href="https://biodataprog.github.io/GEN220_2023/">https://biodataprog.github.io/GEN220_2023/</a></p>
 <h2 id="prerequisites">Prerequisites</h2>
 <ul>
 <li>Coursework in genetics or molecular biology or permission of
@@ -245,10 +246,9 @@ usage.</p></li>
 <li><p>Code should be runnable as turned in. You will deposit your code
 in your github repository or if not possible, by Canvas. You can make
 one private personal repository to deposit and should organize a folder
-for each homework assignment (e.g. hw1, hw2, hw3, hw4). There will be a
-link to create these through GitHub Classroom and posted in <a
-href="https://elearn.ucr.edu/courses/17733/assignments/syllabus">Canvas</a>
-and Piazza.</p>
+for each homework assignment (e.g. hw1, hw2, hw3, hw4, hw5). There will
+be a link to create these through GitHub Classroom and posted in <a
+href="https://elearn.ucr.edu/courses/104848/assignments/syllabus">Canvas</a>.</p>
 <h2 id="technology-requirements">Technology Requirements</h2>
 <p>Because this course takes place online and requires use of a
 computer, you will need the following:</p>
@@ -302,145 +302,143 @@ the project.</p></li>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Sept-23</td>
+<td style="text-align: left;">Sept-29</td>
 <td style="text-align: left;">F</td>
 <td style="text-align: left;">Course Intro / UNIX I: Cmdline,
 GitHub</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Sept-28</td>
+<td style="text-align: left;">Oct-4</td>
 <td style="text-align: left;">W</td>
 <td style="text-align: left;">UNIX II: Biocluster HPCC, Running
 programs</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Sept-30</td>
+<td style="text-align: left;">Oct-6</td>
 <td style="text-align: left;">F</td>
 <td style="text-align: left;">UNIX III: Tools for data processing</td>
 <td style="text-align: left;">Homework 1 Due</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Oct-5</td>
+<td style="text-align: left;">Oct-11</td>
 <td style="text-align: left;">W</td>
 <td style="text-align: left;">UNIX IV: Advanced UNIX and data
 processing</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Oct-7</td>
+<td style="text-align: left;">Oct-13</td>
 <td style="text-align: left;">F</td>
 <td style="text-align: left;">Python I - Variables, running, cmdline,
 strings, math</td>
 <td style="text-align: left;">Homework 2 Due</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Oct-12</td>
+<td style="text-align: left;">Oct-18</td>
 <td style="text-align: left;">W</td>
 <td style="text-align: left;">Python II - Logic, loops, lists, iterator;
 I/O reading/writing files</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Oct-14</td>
+<td style="text-align: left;">Oct-20</td>
 <td style="text-align: left;">F</td>
-<td style="text-align: left;">Python III - Dictionaries, Arrays,
-functions</td>
+<td style="text-align: left;">Python III - Pandas and Dictionaries</td>
 <td style="text-align: left;">Homework 3 Due</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Oct-19</td>
+<td style="text-align: left;">Oct-25</td>
 <td style="text-align: left;">W</td>
-<td style="text-align: left;">Python IV - Structured data parsing (GFF,
-CSV, BED)</td>
+<td style="text-align: left;">Python IV - Arrays, functions</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Oct-21</td>
+<td style="text-align: left;">Oct-27</td>
 <td style="text-align: left;">F</td>
-<td style="text-align: left;">Python V - BioPython, Pandas</td>
+<td style="text-align: left;">Python V - BioPython</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Oct-26</td>
+<td style="text-align: left;">Nov-1</td>
 <td style="text-align: left;">W</td>
 <td style="text-align: left;">Python Data / Bioinformatics I</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Oct-28</td>
+<td style="text-align: left;">Nov-3</td>
 <td style="text-align: left;">F</td>
 <td style="text-align: left;">Alignment and Bioinformatics Algorithms;
 BLAST cmdline &amp; automation</td>
 <td style="text-align: left;">Homework 4 Due</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Nov-2</td>
+<td style="text-align: left;">Nov-8</td>
 <td style="text-align: left;">W</td>
 <td style="text-align: left;">Bioinformatics I - Aligning short reads,
 coverage, identifying variants</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Nov-4</td>
+<td style="text-align: left;">Nov-10</td>
 <td style="text-align: left;">F</td>
 <td style="text-align: left;">Bioinformatics II - RNASeq analyses</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Nov-9</td>
+<td style="text-align: left;">Nov-15</td>
 <td style="text-align: left;">W</td>
 <td style="text-align: left;">Bioinformatics III - Genome Assembly</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Nov-11</td>
+<td style="text-align: left;">Nov-17</td>
 <td style="text-align: left;">F</td>
-<td style="text-align: left;"><strong>No Class - Holiday</strong></td>
+<td style="text-align: left;">Bioinformatics IV - Protein Sequence
+analyses (HMMER, InterPro, SignalP)</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Nov-16</td>
+<td style="text-align: left;">Nov-22</td>
 <td style="text-align: left;">W</td>
-<td style="text-align: left;">Bioinformatics IV - Protein Sequence
-analyses (HMMER, InterPro, SignalP)</td>
+<td style="text-align: left;">Bioinformatics V - Orthology,
+Phylogenetics and automation</td>
 <td style="text-align: left;">Homework 5 Due</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Nov-19</td>
-<td style="text-align: left;">F</td>
-<td style="text-align: left;">Bioinformatics V - Orthology,
-Phylogenetics and automation</td>
-<td style="text-align: left;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Nov-23</td>
-<td style="text-align: left;">W</td>
-<td style="text-align: left;">Review Bioinformatics and Databases</td>
-<td style="text-align: left;">Extra Topics</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Nov-25</td>
+<td style="text-align: left;">Nov-24</td>
 <td style="text-align: left;">F</td>
 <td style="text-align: left;"><strong>NO CLASS - Native American
 Heritage Day</strong></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Nov-30</td>
+<td style="text-align: left;">Nov-29</td>
 <td style="text-align: left;">W</td>
 <td style="text-align: left;">Data visualization in R and python</td>
+<td style="text-align: left;">Extra Topics</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Dec-1</td>
+<td style="text-align: left;">F</td>
+<td style="text-align: left;">Databases in R and basic SQL</td>
+<td style="text-align: left;">Extra Topics</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Dec-6</td>
+<td style="text-align: left;">W</td>
+<td style="text-align: left;">Extra Bioinformatics topics</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Dec-2</td>
+<td style="text-align: left;">Dec-8</td>
 <td style="text-align: left;">F</td>
 <td style="text-align: left;">Class Presentations</td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Dec-9</td>
+<td style="text-align: left;">Dec-15</td>
 <td style="text-align: left;">F</td>
 <td style="text-align: left;">Final Project Reports Due</td>
 <td style="text-align: left;"></td>
@@ -448,5 +446,8 @@ Heritage Day</strong></td>
 </tbody>
 </table>
 <hr />
+<p>*note these dates and topics may changes if illness or conflict
+arises. Class will also vote to emphasize special topics towards the end
+of quarter.</p>
 </body>
 </html>
