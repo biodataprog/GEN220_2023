@@ -96,11 +96,12 @@ Homework
 
 ## Operating systems:
   * OSX is recommended with [Xquartz](https://www.xquartz.org/) installed for X11
-  * UNIX or Linux eg [Ubuntu](https://ubuntu.com/)
+    * [iTerm](https://iterm2.com/) is a useful terminal in addition to default Terminal.
   * Windows with [MobaXterm](https://mobaxterm.mobatek.net/)
-
+  * UNIX or Linux eg [Ubuntu](https://ubuntu.com/)
+  
 ## Other recommended software - a local text editor
- * [Atom](https://atom.io/) is highly recommended
+ * [Visual Studio](https://visualstudio.microsoft.com/) highly reccomended
 * [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 Projects

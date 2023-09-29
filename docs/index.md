@@ -16,7 +16,8 @@ cd ..
 git clone https://github.com/biodataprog/GEN220_data.git
 ```
 # Resources
-* [SSH keys](Resources/SSH_keys)
+* HPCC instructions on using [SSH keys](https://hpcc.ucr.edu/manuals/access/login/#a-ssh-login-from-terminal)
+* Access HPCC via [web](https://hpcc.ucr.edu/manuals/access/login/#b-web-based-access)
 * [Github workflows](Resources/Git_tutorial) and [Software Carpentry Github Tutorial](http://swcarpentry.github.io/git-novice/)
 * [Software Carpentry UNIX/Shell Novice Tutorial](http://swcarpentry.github.io/shell-novice/)
 * [UNIX command reference 1](https://rumorscity.com/wp-content/uploads/2014/08/10-Linux-Unix-Command-Cheat-Sheet-011.jpg)
@@ -36,7 +37,7 @@ git clone https://github.com/biodataprog/GEN220_data.git
 
 # Homework
 
-* HW1 
+* HW1 - UNIX and Airport data
 * HW2 
 * HW3 
 * HW4 
