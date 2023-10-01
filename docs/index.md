@@ -34,6 +34,7 @@ git clone https://github.com/biodataprog/GEN220_data.git
   * [Nano](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/)
   * [Emacs](https://www.gnu.org/software/emacs/tour/)
   * [Emacs Manual](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)
+  * [Visual Studio](https://visualstudio.microsoft.com/) - see [HPCC INSTRUCTIONS](https://hpcc.ucr.edu/manuals/hpc_cluster/selected_software/vscode/) - there is also a web-version you can run if you only have a tablet, the HPCC instructions will help set this up too.
 
 # Homework
 
