@@ -37,8 +37,8 @@ git clone https://github.com/biodataprog/GEN220_data.git
 
 # Homework
 
-* HW1 - UNIX and Airport data
-* HW2 
+* HW1 - [Intro](Assignments/HW1) [PDF](Assignments/HW1.pdf)
+* HW2 - [Airports](Assignments/HW2) [PDF](Assignments/HW2.pdf)
 * HW3 
 * HW4 
 * HW5

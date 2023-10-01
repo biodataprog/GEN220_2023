@@ -6,11 +6,6 @@ Github introduction
 
 UNIX practice
 ====
-1. Login to HPCC
-2. Create a folder 
-
-Data processing
-===
 Go into your bigdata folder. If you have not used the cluster before then you will be in the `gen220` project. Or you may have your own lab bigdata folder.
 ```
 cd ~/bigdata # this should work but if it doesn't 
@@ -30,4 +25,5 @@ git clone https://github.com/biodataprog/GEN220_data.git
 cd GEN220_data
 ```
 Look around in the folder. Go into the `tabular` folder where I've stored some tab or comma delimited data.
-
+1. Uncompress a file with gunzip 
+2. Count the number of lines some of these files (`wc -l`)
