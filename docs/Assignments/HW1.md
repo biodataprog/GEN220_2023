@@ -30,13 +30,4 @@ git clone https://github.com/biodataprog/GEN220_data.git
 cd GEN220_data
 ```
 Look around in the folder. Go into the `tabular` folder where I've stored some tab or comma delimited data.
-You will write a set of bash commands to answer these questions.
-You can solve everything with the following unix commands:
-`cut, sort, uniq, tail or head, wc, sed`
-## Airports
-1. how many lines are in the airport codes file?
-1. how many airports are listed as closed?
-1. how many airports are in Antarctica (iso_country code AQ)? How many are heliports?
-1. what is the name of the airport located in highest elevation, and what is its elevation?
-1. what is name of the airport located in the second lowest elevation?
-1. what country has the most airports? List the top 5 countries with the most airports
+
