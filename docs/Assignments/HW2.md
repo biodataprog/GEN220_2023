@@ -1,6 +1,9 @@
-You will write a set of bash commands to answer these questions.
+You will write a set of bash commands to answer these questions from the data https://github.com/biodataprog/GEN220_data/raw/main/tabular/airport-codes.csv.gz
+
 You can solve everything with the following unix commands:
 `cut, sort, uniq, tail or head, wc, sed`
+
+The `setup.sh` script already in the folder will download and decompress the file for you.
 ## Airports
 1. how many lines are in the airport codes file?
 2. how many airports are listed as closed?
