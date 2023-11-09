@@ -69,7 +69,6 @@ There are many standardized SNP calling pipelines. [GATK](https://software.broad
 
 ```bash
 #SBATCH -p batch -N 1 -n 4 --mem 16gb
-module unload perl
 module load samtools
 module load bcftools
 GENOME=S_enterica_CT18.fasta
