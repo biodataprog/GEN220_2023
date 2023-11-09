@@ -53,6 +53,8 @@ Interactively - you can use `samtools`
 ```bash
 module load samtools
 samtools tview SRR10574912.bam
+# to see the reference genome loaded as well add this option
+samtools tview SRR10574912.bam --reference S_enterica_CT18.fasta
 ```
 
 ## SNP calling
